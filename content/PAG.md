@@ -1,2 +1,2 @@
-# Programmierbares Abhörgerät mit GUI
+# Programmierbares Abhörgerät
 ##
