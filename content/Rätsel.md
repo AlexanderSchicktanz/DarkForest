@@ -1,4 +1,0 @@
-## [[Schaltkreise]]
-## [[Programmieren]]
-## [[Abhören]]
-## [[Krypto]]

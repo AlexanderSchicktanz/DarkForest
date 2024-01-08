@@ -1,5 +1,0 @@
-Schleusen
-Förderbänder
-Funkturm
-Bewegungsmelder
-Kamera

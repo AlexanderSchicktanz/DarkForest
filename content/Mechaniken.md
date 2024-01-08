@@ -1,3 +1,0 @@
-## [[Rätsel]]
-## [[Holo Notes]]
-## [[Respawning]]
